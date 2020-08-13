@@ -29,8 +29,6 @@
 * [Exercism JavaScript Answers](https://github.com/SLIB53/exercism-javascript-answers)
 * [Exercism Elixir Answers](https://github.com/SLIB53/exercism-elixir-answers)
 * [Exercism C++ Answers](https://github.com/SLIB53/exercism-cpp-answers)
-* [Exercism Kotlin Answers](https://github.com/SLIB53/exercism-kotlin-answers)
-* [Exercism Ruby Answers](https://github.com/SLIB53/exercism-ruby-answers)
 
 
 ### Snippets
