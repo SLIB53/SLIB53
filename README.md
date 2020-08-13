@@ -14,7 +14,7 @@
 
 **Favorite operating systems:** macOS, Fedora
 
-**Favorite text editors:** Visual Studio Code, Neovim
+**Favorite text editors:** Visual Studio Code, Vim
 
 ## Public Work
 
