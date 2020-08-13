@@ -34,4 +34,4 @@
 ### Snippets
 
 * [GIF Scale](https://gist.github.com/SLIB53/029bed952913c44dc3c655fc61c0bbc1)
-* [More (GitHub Gists) ...](https://gist.github.com/SLIB53)
+* [More ...](https://gist.github.com/SLIB53)
