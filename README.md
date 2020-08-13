@@ -1,6 +1,6 @@
 # `echo "Hello, $(whoami)"'!'`
 
-*Fullstack Developer, and busy at work!* 👨‍💻
+*Full Stack Software Engineer, and busy at work!* 👨‍💻
 
 *Feel free to contact me at akil.krishnan.SLIB53@gmail.com, and follow me on Twitter ([@SLIB53](https://twitter.com/SLIB53)).*
 
