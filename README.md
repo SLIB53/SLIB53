@@ -2,8 +2,6 @@
 
 *Full Stack Software Engineer, and busy at work!* 👨‍💻
 
----
-
 **Currently working with:** Google Cloud Platform, JavaScript (React, Apollo GraphQL, Node)
 
 **Favorite programming languages:** JavaScript, Elixir
