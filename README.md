@@ -2,15 +2,15 @@
 
 *Full Stack Software Engineer, and busy at work!* 👨‍💻
 
-**Currently working with:** Google Cloud Platform, JavaScript (React, Apollo GraphQL, Node)
+**Currently working with:** Google Cloud Platform, JavaScript/TypeScript (React.js, Node.js)
 
-**Favorite programming languages:** JavaScript, Elixir
+**Favorite programming languages:** JavaScript, TypeScript
 
 **Favorite shell**: Fish
 
-**Favorite operating systems:** macOS, Fedora
+**Favorite OS:** macOS, Fedora
 
-**Favorite text editors:** Visual Studio Code, Vim
+**Favorite text editor:** Visual Studio Code
 
 ## Public Work
 
