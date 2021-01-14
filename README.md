@@ -2,7 +2,7 @@
 
 *Full Stack Software Engineer, and busy at work!* 👨‍💻
 
-**Currently working with:** Google Cloud Platform, JavaScript/TypeScript (React.js, Node.js)
+**Currently working with:** JavaScript/TypeScript (React.js, Node.js), Google Cloud Platform
 
 **Favorite programming languages:** JavaScript, TypeScript
 
@@ -18,13 +18,6 @@
 
 * [Bloobox](https://github.com/SLIB53/bloobox)
 * [Pepper Fish Theme](https://github.com/SLIB53/pepper-fish-theme)
-
-
-### Exercises
-
-* [Exercism JavaScript Answers](https://github.com/SLIB53/exercism-javascript-answers)
-* [Exercism Elixir Answers](https://github.com/SLIB53/exercism-elixir-answers)
-* [Exercism C++ Answers](https://github.com/SLIB53/exercism-cpp-answers)
 
 
 ### Snippets
