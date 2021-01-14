@@ -1,4 +1,4 @@
-# `echo "Hello, $(whoami)"'!'
+# `echo "Hello, $(whoami)"'!'`
 
 **Currently working with:** JavaScript/TypeScript (React.js, Node.js), Google Cloud Platform
 
