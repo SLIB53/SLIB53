@@ -1,6 +1,4 @@
-# `echo "Hello, $(whoami)"'!'`
-
-*Full Stack Software Engineer, and busy at work!* 👨‍💻
+# `echo "Hello, $(whoami)"'!'
 
 **Currently working with:** JavaScript/TypeScript (React.js, Node.js), Google Cloud Platform
 
