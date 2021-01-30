@@ -2,4 +2,4 @@
 
 **Currently working with:** TypeScript, Terraform, Google Cloud Platform
 
-**Using:** Visual Studio Code, Fish, Docker, Fedora, macOS
+**Favorites:** Visual Studio Code, Fish, Docker, Fedora, macOS
